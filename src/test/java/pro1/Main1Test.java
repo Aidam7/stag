@@ -9,7 +9,7 @@ public class Main1Test {
     void test01() {
         // TODO 1.2: Oprav test
         assertEquals(
-                62,
+                68,
                 Main1.emptyActionsCount("KIKM", 2024)
         );
     }
